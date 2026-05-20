@@ -8,6 +8,7 @@ out/
 next-env.d.ts
 
 # Raw source assets — already copied into public/, kept local only
-Projects/
-Sertifikat/
-My self/
+# Leading slash anchors to repo root so public/projects/ is NOT matched
+/Projects/
+/Sertifikat/
+/My self/
