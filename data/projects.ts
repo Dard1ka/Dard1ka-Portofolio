@@ -66,7 +66,7 @@ export const projects: Project[] = [
     name: "Fortunas AI",
     tagline: "Intelligent workflow application",
     description:
-      "An AI-powered application focused on user experience and intelligent workflows — blending automation, prediction, and a clean interactive surface for end users.",
+      "An AI-powered application focused on user experience and intelligent workflows. It blends automation, prediction, and a clean interactive surface for end users.",
     year: "2025",
     stack: ["AI", "Web", "Product"],
     category: "AI · Product",
@@ -86,7 +86,7 @@ export const projects: Project[] = [
     name: "MMD Generator",
     tagline: "Automated content generation with n8n",
     description:
-      "An automation pipeline built during an N8N bootcamp that generates MMD content end-to-end — orchestrating LLM prompts, asset hand-offs, and delivery steps into a repeatable workflow.",
+      "An automation pipeline built during an N8N bootcamp that generates MMD content end-to-end. It orchestrates LLM prompts, asset hand-offs, and delivery steps into a repeatable workflow.",
     year: "2025",
     stack: ["n8n", "Automation", "LLM", "Workflow"],
     category: "Automation · AI",
@@ -124,7 +124,7 @@ export const projects: Project[] = [
     name: "AI Illegal Parking",
     tagline: "Real-time CV violation detection",
     description:
-      "A computer vision system that detects illegal parking from a live camera feed, classifies violations, and surfaces warnings through a monitoring interface — bridging deep learning and real-world enforcement.",
+      "A computer vision system that detects illegal parking from a live camera feed, classifies violations, and surfaces warnings through a monitoring interface, bridging deep learning and real-world enforcement.",
     year: "2024",
     stack: ["Python", "Computer Vision", "AI"],
     category: "Computer Vision",
