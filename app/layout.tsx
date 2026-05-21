@@ -27,13 +27,13 @@ const siteUrl = "https://dardika.dev";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  title: "Dardika — AI Engineer & Creative Technologist",
+  title: "Dardika | AI Engineer & Creative Technologist",
   description:
-    "Portfolio of Dardika (Dard1ka) — building intelligent systems, interfaces, and real-world automation. AI, LLM, IoT, computer vision, and web applications.",
+    "Portfolio of Dardika (Dard1ka), building intelligent systems, interfaces, and real-world automation. AI, LLM, IoT, computer vision, and web applications.",
   keywords: ["Dardika", "Dard1ka", "AI Engineer", "Full-Stack Developer", "LLM", "IoT", "Computer Vision", "Portfolio"],
   authors: [{ name: "Dardika" }],
   openGraph: {
-    title: "Dardika — AI Engineer & Creative Technologist",
+    title: "Dardika | AI Engineer & Creative Technologist",
     description: "I build intelligent systems, interfaces, and real-world automation.",
     url: siteUrl,
     siteName: "Dardika",
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Dardika — AI Engineer & Creative Technologist",
+    title: "Dardika | AI Engineer & Creative Technologist",
     description: "I build intelligent systems, interfaces, and real-world automation.",
   },
 };
